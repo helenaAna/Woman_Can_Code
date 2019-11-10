@@ -1,0 +1,22 @@
+C:\Users\woman\source\repos\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfo.cs
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.exe
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.deps.json
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.runtimeconfig.json
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.runtimeconfig.dev.json
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.dll
+C:\Users\woman\source\repos\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.pdb
+C:\Users\woman\source\repos\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.dll
+C:\Users\woman\source\repos\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.pdb
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.csprojAssemblyReference.cache
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfoInputs.cache
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.AssemblyInfo.cs
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.dll
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\obj\Debug\netcoreapp3.0\OrcamentoDomestico.pdb
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.exe
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.deps.json
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.runtimeconfig.json
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.runtimeconfig.dev.json
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.dll
+C:\Users\anahe\OneDrive\Área de Trabalho\OrcamentoDomestico\bin\Debug\netcoreapp3.0\OrcamentoDomestico.pdb
